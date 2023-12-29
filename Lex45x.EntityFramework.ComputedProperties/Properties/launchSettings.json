@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Roslyn Debug": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "..\\Lex45x.EntityFramework.ComputedProperties.Tests\\Lex45x.EntityFramework.ComputedProperties.Tests.csproj"
+    }
+  }
+}
